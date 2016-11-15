@@ -1,0 +1,3 @@
+This is a simple MVC project. 
+The tutorial I followed for preparing this project is of JavaBrains:
+[1]https://www.youtube.com/watch?v=b42CJ0r-1to&list=PLE0F6C1917A427E96
